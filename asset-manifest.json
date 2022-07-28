@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tzechong94/random-quote-machine/static/css/main.30866db5.css",
-    "main.js": "/tzechong94/random-quote-machine/static/js/main.7a12512a.js",
-    "static/js/787.e43a185d.chunk.js": "/tzechong94/random-quote-machine/static/js/787.e43a185d.chunk.js",
-    "static/media/raleway-v28-latin-regular.woff": "/tzechong94/random-quote-machine/static/media/raleway-v28-latin-regular.ae8476bcb31623c8d126.woff",
-    "index.html": "/tzechong94/random-quote-machine/index.html",
-    "main.30866db5.css.map": "/tzechong94/random-quote-machine/static/css/main.30866db5.css.map",
-    "main.7a12512a.js.map": "/tzechong94/random-quote-machine/static/js/main.7a12512a.js.map",
-    "787.e43a185d.chunk.js.map": "/tzechong94/random-quote-machine/static/js/787.e43a185d.chunk.js.map"
+    "main.css": "/random-quote-machine/static/css/main.6ce82b35.css",
+    "main.js": "/random-quote-machine/static/js/main.b7efc19b.js",
+    "static/js/787.e43a185d.chunk.js": "/random-quote-machine/static/js/787.e43a185d.chunk.js",
+    "static/media/raleway-v28-latin-regular.woff": "/random-quote-machine/static/media/raleway-v28-latin-regular.ae8476bcb31623c8d126.woff",
+    "index.html": "/random-quote-machine/index.html",
+    "main.6ce82b35.css.map": "/random-quote-machine/static/css/main.6ce82b35.css.map",
+    "main.b7efc19b.js.map": "/random-quote-machine/static/js/main.b7efc19b.js.map",
+    "787.e43a185d.chunk.js.map": "/random-quote-machine/static/js/787.e43a185d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30866db5.css",
-    "static/js/main.7a12512a.js"
+    "static/css/main.6ce82b35.css",
+    "static/js/main.b7efc19b.js"
   ]
 }
