@@ -90,7 +90,19 @@
     justify-content: space-between;
     align-items: center;
   }
+  
+  .quote-box {
+    position: relative;
+    width: 90%;
+    padding: 5%;
+    margin: 5%;
+    border-color: white;
+    border-style: solid;
+    background: white;
+    border-radius: 10px;
+  }
 }
+  
 
 
 .twitter-button {
