@@ -9,7 +9,7 @@ const Quotebox = ({quote, author, onButtonClick}) => {
         <div className="quote-box" id="quote-box">
             <div className="quote" id="text">{quote}</div>
             <br></br>
-            <div id="author" className="author">- {author}</div>
+            <div id="author" className="author">{'- ' + author}</div>
             <br></br>
 
             <div className="container">
@@ -18,7 +18,7 @@ const Quotebox = ({quote, author, onButtonClick}) => {
                         <FontAwesomeIcon icon={faTumblrSquare} />
     </a>                         */}
                     <a className="twitter-button" id="tweet-quote" title="Tweet this quote!" target="_blank" rel="noreferrer" href={'https://twitter.com/intent/tweet?text='+ quote + ' - ' + author}>
-                        <FontAwesomeIcon icon={faTwitterSquare} size={"xl"}/>
+                        <FontAwesomeIcon className="twitter-icon" icon={faTwitterSquare} size={"xl"}/>
                     </a>                        
                 </div>
                 <button onClick={onButtonClick} className="new-quote-btn" id="new-quote">New Quote</button>

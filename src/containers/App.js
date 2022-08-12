@@ -43,10 +43,13 @@ function App() {
     document.querySelector(".quote").style.color = randomColor;
     document.querySelector(".author").style.color = randomColor;
     document.querySelector(".new-quote-btn").style.backgroundColor = randomColor;
+    document.querySelector(".twitter-icon").style.color = randomColor;
+
   }
 
 
-  return (
+  return (quote === "") ?
+    <h1 className='title'> Loading </h1> :
     <div className="App background-color">
       <h1 className='title'>Random Quote Machine</h1>
       <h3 className="quote-container background-color">
@@ -54,7 +57,7 @@ function App() {
       </h3>
 
     </div>
-  );
+  
 }
 
 export default App;
