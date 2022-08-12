@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/random-quote-machine/static/css/main.6ce82b35.css",
-    "main.js": "/random-quote-machine/static/js/main.b7efc19b.js",
+    "main.css": "/random-quote-machine/static/css/main.2457c6aa.css",
+    "main.js": "/random-quote-machine/static/js/main.97d3fa49.js",
     "static/js/787.e43a185d.chunk.js": "/random-quote-machine/static/js/787.e43a185d.chunk.js",
     "static/media/raleway-v28-latin-regular.woff": "/random-quote-machine/static/media/raleway-v28-latin-regular.ae8476bcb31623c8d126.woff",
     "index.html": "/random-quote-machine/index.html",
-    "main.6ce82b35.css.map": "/random-quote-machine/static/css/main.6ce82b35.css.map",
-    "main.b7efc19b.js.map": "/random-quote-machine/static/js/main.b7efc19b.js.map",
+    "main.2457c6aa.css.map": "/random-quote-machine/static/css/main.2457c6aa.css.map",
+    "main.97d3fa49.js.map": "/random-quote-machine/static/js/main.97d3fa49.js.map",
     "787.e43a185d.chunk.js.map": "/random-quote-machine/static/js/787.e43a185d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ce82b35.css",
-    "static/js/main.b7efc19b.js"
+    "static/css/main.2457c6aa.css",
+    "static/js/main.97d3fa49.js"
   ]
 }
